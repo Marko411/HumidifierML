@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\Marko\Downloads\Humidifier_Project-20241231T045918Z-001\Humidifier_Project\Project Outputs for Humidifier_Project\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/01/25
+Time:       04:59
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator        Comment Layer    Footprint                   Center-X(mil) Center-Y(mil) Rotation Description 
+"Analog Joystick" Comment TopLayer Analog_Joystick-Footprint-1 2090.000      2750.000      90       ""          
+R1                Comment TopLayer RESC2013X50X35ML15T15       2820.000      2961.339      90       ""          
+R1                Comment TopLayer RESC2013X50X35ML15T15       3320.000      2985.000      90       ""          
+DHT-11            Comment TopLayer BGA81C100P9X9_1100X1100X350 3061.495      1672.967      0        ""          
+1N4007            Comment TopLayer FAIR-DO-41-2                2920.000      3445.000      90       ""          
+1N4007            Comment TopLayer FAIR-DO-41-2                3410.000      3440.000      90       ""          
+IFRZ44N           Comment TopLayer BGA81C100P9X9_1100X1100X350 2920.000      3125.000      0        ""          
+IFRZ44N           Comment TopLayer BGA81C100P9X9_1100X1100X350 3415.000      3120.000      0        ""          
