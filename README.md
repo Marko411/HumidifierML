@@ -19,5 +19,5 @@ The system consists of the following major components:
 3. **Processing Unit:**
    - ESP-32 running the TensorFlow Lite ML model deployed as a C array into the Arduino IDE.
 4. **PCB**
-   - PCB designed for compactness which also features a switch if the user chooses to control the humidifier manually. 
+   - PCB designed for compactness which also features a switch if the user chooses to control the humidifier manually (files in PCB branch). 
 
